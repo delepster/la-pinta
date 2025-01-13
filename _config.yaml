@@ -4,3 +4,5 @@ plugins:
 title: La Pinta
 description: Le jeu de cartes pour ceux qui ont le goût du risque!
 show_downloads: false
+github:
+  is_project_page: false
